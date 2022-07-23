@@ -78,3 +78,4 @@ class ImageClassificationDataset(torch.utils.data.Dataset):
             if a['category'] == category:
                 i += 1
         return i
+    
