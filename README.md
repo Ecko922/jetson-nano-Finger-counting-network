@@ -2,6 +2,11 @@
 
 #Purpose of this network: This network aims to recognize hand gestures that indicate different numbers.
 
+#GUIDE:
+This project includes a trained model that works. Thus, to operate this network, you just need to activate all the codes and load the pre-trained model in the notebook. However, if you decide to add mopre categories or train the model even more, the notebook allows you to make changes to the code or add more images to the datebase.
+
+### CODE RUNTHROUGH ###
+
 #Camera
 This block sets the size of the images and starts the camera. If your camera is already active, shut down the kernel in the active notebook before running this code cell. Make sure that the correct camera type is selected for execution (USB). 
 
